@@ -75,8 +75,8 @@ nor(y6,a,b);
 xnor (y7,a,b);
 endmodule
 ```
-## Logic symbol & Truthtable:
-![Alt text](lg1.png)
+## Truth Table:
+![image](https://github.com/KAVIYADHARANI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870680/1b9747b9-ecc4-4aea-a7f1-334db58c428c)
 
 ## RTL realization:
 ![image](https://github.com/KAVIYADHARANI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144870680/53928baf-e873-4629-8344-4cf70d9ce5f3)
